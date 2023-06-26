@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **new projects**
 
-- 📝 I regularly write articles about music on [https://www.lacaverna.net](https://www.lacaverna.net)
+- 📝 I regularly write articles about music on [https://www.lacaverna.net](https://www.lacaverna.net){:target="_blank"}
 
 - 📫 How to reach me **mcastilloperez@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mcastilloperez/](https://www.linkedin.com/in/mcastilloperez/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mcastilloperez/](https://www.linkedin.com/in/mcastilloperez/){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
